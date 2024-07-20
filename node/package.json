@@ -1,7 +1,7 @@
 {
   "name": "am-nodejs-proxy-ws",
   "version": "1.0.0",
-  "description": "Deploy vless nodes on Serv00 free hosting website,YouTube频道：https://youtube.com
+  "description": "Deploy vless nodes on Serv00 free hosting website,YouTube频道：https://youtube.com",
   "author": "AM技术",
   "main": "index.js",
   "license": "GPL-3.0-only",
